@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Test Page
 
-I'm glad you are here. I plan to talk about ...
+Hi there, if you see this, it means this page works.
